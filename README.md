@@ -7,3 +7,6 @@ A toast confirms each item removed with a dot (.) when successfully removed, wit
 
 To start the app from the cmdline:
 adb shell am start btpairingwiper.ndzl.com/btpairingwiper.ndzl.com.MainActivity
+
+BUILD INFO - TARGET SDK:27, TESTED ON TC51 A8, MC22 A10
+BTPairingWiper_v1.0.apk makes use of non-public android APIs, might not work in future android versions.
